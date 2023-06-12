@@ -1,0 +1,4 @@
+1. Install Laravel - Done
+2. Install UI Bootstrap Auth - Done
+-------------------------------
+3 Layout Architecture Bootstrap 5 : on Progress minute 29:27
